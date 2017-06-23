@@ -46,4 +46,7 @@ _Upon clicking *Week 0*, user might see:_
 * Source Code [which links to an index listing on cdn.cs50.net, but can soon change to GitHub]
 * Video [which links to 720p or 1080p version of video on CDN]
 
+_Or, better yet, user could just see the video start playing, with two buttons, one of which makes the slides slide up over the video temporarily, while video still plays, other of which does the same for video. And then on previous menu (*CS50 2016*), there could be a "download" link next to, e.g., "Week 0" that would trigger a pre-download of all three assets._
+
 _Note: video exists on cdn.cs50.net in multiple resolutions. App could, e.g., stream 360p version by default. But user could alternatively click to download the 720p or 1080p version for offline viewing._
+
