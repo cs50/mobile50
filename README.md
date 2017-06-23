@@ -14,7 +14,7 @@
 * See XML files at https://github.com/cs50/tv50/tree/master/var/cs50.tv/2016/fall.
 * See http://cs50.tv/2016/fall/ for a hierarchical HTML rendering of that XML data.
 
-_Note: additional videos (called "Shorts") soon to be added to that XML but format will be equivalent._
+_Note: additional videos (called "Shorts") soon to be added to that XML but format will be equivalent. Though we'll likely transition to our own XML or JSON or YAML format rather than cling to that XBEL format. Ideal if XML parsing is confined to a method that we can swap out for something else later. Odds are final format would still be hierarchical (equivalent to a tree) but where nodes can have multiple attributes, not just hrefs._
 
 # Sketch of UI
 
